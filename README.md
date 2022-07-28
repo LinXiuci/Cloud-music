@@ -63,15 +63,11 @@ Java + Spring Boot@2.6 + MyBatis + MySQL+图形化界面 Navicat
 
 ![](https://cdn.jsdelivr.net/gh/LinXiuci/image/img/1659043428857.jpg)<br/>
 
+
 ### 使用 React Hooks 开发的展示图
 
 ![](https://cdn.jsdelivr.net/gh/LinXiuci/image/img/8564f582ca3030d9e7b3a5aba8fe1c9.jpg)<br/>
 
-![](https://cdn.jsdelivr.net/gh/LinXiuci/image/img/03eb88440661c883b73a672061a0dc0.jpg)<br/>
-
-![](https://cdn.jsdelivr.net/gh/LinXiuci/image/img/1cd5e0ea1f8d0b66e5050d80d7fa781.jpg)<br/>
-
-![](https://cdn.jsdelivr.net/gh/LinXiuci/image/img/f64f439bdfc077bf1c1fcc60aa56dc8.jpg)<br/>
 
 
 ## 项目功能
