@@ -7,7 +7,7 @@ Cloud-music
   
   注：
      1. 后端的技术语言都是边学边写的（主要是看别人写的技术博客），<a href="https://www.javaboy.org/springboot/">博客链接</a>。
-     2. 目前已经采用 React Hook 框架开发该项目，大部分的功能均是原生开发。<a href="### 使用 React Hooks 开发的展示图">展示图</a>
+     2. 目前已经采用 React Hook 框架开发该项目，大部分的功能均是原生开发。展示图在下方
   
 ## 技术栈
 
