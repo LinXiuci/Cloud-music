@@ -3,9 +3,11 @@ Cloud-music
 
 ## 说明
 
-  《云音乐》项目于2022年5月8号完成（还是有一点的小bug），大概耗时两三月余。此项目是模仿 <a href="https://yin-hongwei.github.io/2019/03/04/music/#more">尹宏伟</a> 先生的作品。此项目的客户端与后台管理都是采用 <a href="https://staging-cn.vuejs.org/">Vue3</a> 框架来实现,服务端则采用 Java + Spring Boot@2.6 + Mybatis来实现，数据库是使用了 MySQL。
+  《云音乐》项目于2022年5月8号完成（还是有一点的小bug），大概耗时两三月余。此项目是模仿 <a href="https://yin-hongwei.github.io/2019/03/04/music/#more">尹宏伟</a> 先生的作品。此项目的客户端与后台管理都是采用 <a href="https://staging-cn.vuejs.org/">Vue3</a> 框架来实现，服务端则采用 Java + Spring Boot@2.6 + Mybatis来实现，数据库是使用了 MySQL。
   
-  注：后端的技术语言都是边学边写的（主要是看别人写的技术博客），<a href="https://www.javaboy.org/springboot/">博客链接</a>。
+  注：
+     1. 后端的技术语言都是边学边写的（主要是看别人写的技术博客），<a href="https://www.javaboy.org/springboot/">博客链接</a>。
+     2. 目前已经采用 React Hook 框架开发该项目，大部分的功能均是原生开发。<a href="### 使用 React Hooks 开发的展示图">展示图</a>
   
 ## 技术栈
 
@@ -60,6 +62,17 @@ Java + Spring Boot@2.6 + MyBatis + MySQL+图形化界面 Navicat
 ![](https://cdn.jsdelivr.net/gh/LinXiuci/image/img/1659043404804.jpg)<br/>
 
 ![](https://cdn.jsdelivr.net/gh/LinXiuci/image/img/1659043428857.jpg)<br/>
+
+### 使用 React Hooks 开发的展示图
+
+![](https://cdn.jsdelivr.net/gh/LinXiuci/image/img/8564f582ca3030d9e7b3a5aba8fe1c9.jpg)<br/>
+
+![](https://cdn.jsdelivr.net/gh/LinXiuci/image/img/03eb88440661c883b73a672061a0dc0.jpg)<br/>
+
+![](https://cdn.jsdelivr.net/gh/LinXiuci/image/img/1cd5e0ea1f8d0b66e5050d80d7fa781.jpg)<br/>
+
+![](https://cdn.jsdelivr.net/gh/LinXiuci/image/img/f64f439bdfc077bf1c1fcc60aa56dc8.jpg)<br/>
+
 
 ## 项目功能
 
