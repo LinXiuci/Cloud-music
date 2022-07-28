@@ -79,7 +79,7 @@ Java + Spring Boot@2.6 + MyBatis + MySQL+图形化界面 Navicat
 
 ### 服务器运行（music-server）
 
-1. 去该<a href="https://pan.baidu.com/s/1Qv0ohAIPeTthPK_CDwpfWg"> 链接 </a>【提取码: gwa4】下载依赖的歌曲与图片，将 data 里的文件放到 music-server 文件夹中
+1. 去该<a href="https://pan.baidu.com/s/1Qv0ohAIPeTthPK_CDwpfWg"> 链接 </a>【提取码: gwa4】下载依赖的歌曲与图片，将 data 里的文件放到 music-server 根目录下：
 
    ![](https://cdn.jsdelivr.net/gh/LinXiuci/image/img/1659047718983.jpg)<br/>
 
